@@ -54,11 +54,14 @@ body
 }
 
 #name-section-bg {
-    background-image: url('../img/photo-atitlan.jpg');
+    background-color: #1d1d1d;
     height: 700px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #ffffff;
 }
 
 .font_0 {
@@ -67,7 +70,7 @@ body
 }
 
 .color_18 {
-    color: hsl(0, 100%, 42%);
+    color: #d60000;
 }
 
 #comp-iqt2zzvx {
